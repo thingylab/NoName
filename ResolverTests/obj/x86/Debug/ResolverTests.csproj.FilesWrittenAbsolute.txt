@@ -1,0 +1,5 @@
+/Users/pierredoucy/Projects/ResolverTests/ResolverTests/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/pierredoucy/Projects/ResolverTests/ResolverTests/bin/Debug/ResolverTests.exe.mdb
+/Users/pierredoucy/Projects/ResolverTests/ResolverTests/bin/Debug/ResolverTests.exe
+/Users/pierredoucy/Projects/ResolverTests/ResolverTests/obj/x86/Debug/ResolverTests.exe
+/Users/pierredoucy/Projects/ResolverTests/ResolverTests/obj/x86/Debug/ResolverTests.exe.mdb
